@@ -5,7 +5,8 @@ Hello, my name is Le Huu Hung. I am currently studying at the University of Scie
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lhh.m.i/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCh6iunKP7FhziBJcsZRrbNw) 
 ## Skill:
-  ![C++]<img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
-  ![Python]<img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
+<p align="center" >
+  <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
