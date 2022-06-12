@@ -7,5 +7,5 @@ Hello, my name is Le Huu Hung. I am currently studying at the University of Scie
 ## Skill:
   <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 
