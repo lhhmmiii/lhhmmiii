@@ -2,7 +2,6 @@
 ## About me
 Hello, my name is Le Huu Hung. I am currently studying at the University of Sciences - VietNam National University Ho Chi Minh city, majoring in artificial intelligence. I'm pursuing machine learning. In the future, I want to be a machine learning programmer.
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lhhmmiii" alt="lhhmmiii" /> <img src="https://badges.pufler.dev/repos/lhhmmiii" alt="lhhmmiii" /> </p>
 
 ## 📫 Social:
 
