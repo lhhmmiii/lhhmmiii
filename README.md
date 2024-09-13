@@ -1,5 +1,5 @@
 ## About me
-Hi 👋, my name is Le Huu Hung. I am currently studying at the University of Sciences - VietNam National University Ho Chi Minh city, majoring in artificial intelligence. I'm pursuing machine learning. In the future, I want to be a machine learning engineer.
+Hi 👋, my name is Le Huu Hung. I am currently studying at the University of Sciences - VietNam University of Science Ho Chi Minh city, majoring in artificial intelligence. I'm pursuing machine learning. In the future, I want to be a machine learning engineer.
 ## 🛠 My skill: 🛠
 ### Programming Languages
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" title="C++" width=50 /></span>
