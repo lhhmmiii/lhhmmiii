@@ -1,5 +1,5 @@
 <div align="center">
-  <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Computer+Vision+Specialist+%7C+2%2B+Years+Experience;Object+Detection%2C+Segmentation+%26+Video+Analytics;Real-time+Inference+Optimization+(TensorRT%2C+ONNX);Deep+Learning%2C+Generative+AI+%26+Vision-Language+Models;Production-Ready+Deployment+with+FastAPI+%26+Docker" alt="Typing SVG"/> </a> </p>
+  <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=AI+Engineer+%7C+2%2B+Years+Experience;Object+Detection%2C+Segmentation+%26+Video+Analytics;Real-time+Inference+Optimization+(TensorRT%2C+ONNX);Deep+Learning%2C+Generative+AI+%26+Vision-Language+Models;Production-Ready+Deployment+with+FastAPI+%26+Docker" alt="Typing SVG"/> </a> </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/le-huu-hung-b87883247/" target="_blank">
