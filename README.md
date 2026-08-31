@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:6366f1,100:a855f7&amp;height=220&amp;section=header&amp;text=LE%20HUU%20HUNG&amp;fontSize=48&amp;fontAlignY=36&amp;fontColor=ffffff&amp;desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%26%20Deep%20Learning%20Specialist&amp;descAlignY=58&amp;descAlign=50&amp;descColor=e0e7ff&amp;animation=fadeIn" width="100%" alt="Header Banner"/>
-
-  <br/>
-
   <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Computer+Vision+Specialist+%7C+2%2B+Years+Experience;Object+Detection%2C+Segmentation+%26+Video+Analytics;Real-time+Inference+Optimization+(TensorRT%2C+ONNX);Deep+Learning%2C+Generative+AI+%26+Vision-Language+Models;Production-Ready+Deployment+with+FastAPI+%26+Docker" alt="Typing SVG"/> </a> </p>
 
   <p align="center">
